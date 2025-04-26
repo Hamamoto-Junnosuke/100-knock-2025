@@ -6,6 +6,9 @@ dist/
 wheels/
 *.egg-info
 chapter2/popular-names.txt
+split*
+x*
+shuffled*
 
 # Virtual environments
 .venv
