@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+chapter2/popular-names.txt
+
+# Virtual environments
+.venv
+.env
