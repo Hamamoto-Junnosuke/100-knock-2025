@@ -12,6 +12,8 @@ shuffled*
 jawiki*
 *.txt
 melos*
+model/
+*.csv
 
 # Virtual environments
 .venv
