@@ -16,6 +16,7 @@ model/
 *.csv
 data/
 wordsim*/
+SST-2*
 
 # Virtual environments
 .venv
