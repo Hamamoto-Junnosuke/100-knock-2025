@@ -17,6 +17,12 @@ model/
 data/
 wordsim*/
 SST-2*
+.python-version
+hello.py
+pyproject.toml
+*.md
+*.lock
+dpo_gpt2/
 
 # Virtual environments
 .venv
