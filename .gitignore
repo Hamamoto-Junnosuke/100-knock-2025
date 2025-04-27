@@ -9,6 +9,9 @@ chapter2/popular-names.txt
 split*
 x*
 shuffled*
+jawiki*
+*.txt
+melos*
 
 # Virtual environments
 .venv
