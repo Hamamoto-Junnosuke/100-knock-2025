@@ -5,7 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-chapter2/popular-names.txt
+popular-names.txt
 split*
 x*
 shuffled*
